@@ -1,0 +1,6 @@
+@RavingoTest_HostAddress = http://localhost:5171
+
+GET {{RavingoTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
